@@ -3,7 +3,7 @@ package com.in28minutes.rest.webservices.restfulwebservices;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestfulWebServicesApplicationTests {
+public class RestfulWebServicesApplicationTests {
 
 	@org.junit.Test
 	void contextLoads() {
