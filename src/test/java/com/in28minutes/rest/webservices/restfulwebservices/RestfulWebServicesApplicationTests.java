@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 public class RestfulWebServicesApplicationTests {
 
 	@org.junit.Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
